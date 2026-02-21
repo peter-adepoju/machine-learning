@@ -18,8 +18,8 @@ Each project comes with:
 
 ```bash
 # clone
-git clone https://github.com/peter-adepoju/machine-learning-explorations.git
-cd machine-learning-explorations
+git clone https://github.com/peter-adepoju/machine-learning.git
+cd machine-learning
 
 # create env & install
 conda env create -f environment.yml      # or: python -m venv .venv && pip install -r requirements.txt
